@@ -1,6 +1,7 @@
 # Author-Text-Classification Model
 
 A simple text classification model created using LSTM.
+
 Classify texts with the author.
 
 # Data
