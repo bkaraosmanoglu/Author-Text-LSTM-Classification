@@ -1,6 +1,6 @@
 # Author-Text-Classification Model
 
-Two diffrent text classification model using LSTM.
+Two different text classification model using LSTM.
 
 Classify texts with the author.
 
